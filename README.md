@@ -14,7 +14,7 @@ Here due to my system compatibility is very low. So I havent done hyperparameter
 # Tech Stack
 * Front-End: HTML, CSS, Bootstrap
 * Back-End: Flask
-* IDE: Jupyter notebook, Pycharm
+* IDE: Jupyter notebook, VS Code
 
 # Workflow
 
