@@ -7,38 +7,14 @@ Here due to my system compatibility is very low. So I havent done hyperparameter
 # Testing values
 
 # Rainy Day: 
-![Predictor Values for Rainy Day](githubimgs/predictor.png)
+![Predictor Values for Rainy Day]
 # Sunny Day:
-![Predictor Values for Sunny Day](githubimgs/predictor1.png)
+![Predictor Values for Sunny Day]
 
 # Tech Stack
 * Front-End: HTML, CSS, Bootstrap
 * Back-End: Flask
 * IDE: Jupyter notebook, Pycharm
-
-# How to run this app
-* First create a virtual environment by using this command:
-* conda create -n myenv python=3.6
-* Activate the environment using the below command:
-* conda activate myenv
-* Then install all the packages by using the following command
-* pip install -r requirements.txt
-* Now for the final step. Run the app
-* python app.py
-
-# Some screenshots of the app
-* Landing Page:
-![Landing Page](githubimgs/landingpage.png)
-* About Rainy Brain:
-![About](githubimgs/about.png)
-* Dashboard:
-![Dashboard](githubimgs/dashboard.png)
-* Developer:
-![Developer](githubimgs/developer.png)
-* Predictor:
-![Predictor](githubimgs/predictor.png)
-* Result:
-![Result](githubimgs/result.png)
 
 # Workflow
 
