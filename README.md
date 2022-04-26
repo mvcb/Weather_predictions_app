@@ -36,7 +36,8 @@ Here due to my system compatibility is very low. So I havent done hyperparameter
 
 # If you like this project please do give a star. I am also giving my LinkedIn profile. If you want we can connect there too
 [https://www.linkedin.com/in/metta-venkata-chaitanya-bharadwaj-bb814b208](https://www.linkedin.com/in/metta-venkata-chaitanya-bharadwaj-bb814b208/)
-[https://www.linkedin.com/in/yashwanth-kommuri-b36392229/](https://www.linkedin.com/in/yashwanth-kommuri-b36392229/)
+
+*[https://www.linkedin.com/in/yashwanth-kommuri-b36392229/](https://www.linkedin.com/in/yashwanth-kommuri-b36392229/)
 
 
 
